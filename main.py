@@ -78,6 +78,7 @@ def solve_quadratic_equation(a, b, c):
         () if a == 0
     :rtype: tuple
     """
+    #TODO
     pass
 
 
